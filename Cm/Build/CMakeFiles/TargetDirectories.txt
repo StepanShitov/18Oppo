@@ -1,0 +1,4 @@
+C:/Users/ASUS/Desktop/Cm/Build/CMakeFiles/CMakeTests.dir
+C:/Users/ASUS/Desktop/Cm/Build/CMakeFiles/INSTALL.dir
+C:/Users/ASUS/Desktop/Cm/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ASUS/Desktop/Cm/Build/CMakeFiles/ZERO_CHECK.dir
